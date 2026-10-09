@@ -1,0 +1,850 @@
+{
+  "title": "The history of the ring light",
+  "tagline": "Four centuries from Kepler's rule for fading light to a glowing circle on every creator's desk.",
+  "intro": "A ring light joins two stories. One is about where to put a lamp: in 1952 a flash was wrapped round a camera lens so a dentist could photograph the inside of a mouth, and photographers found that light from all round the lens flatters a face. The other is about the lamp itself: a crystal that glowed faintly in 1907 became a red indicator in 1962, a bright blue chip in 1993 and a cheap white light soon after. When phones turned their cameras on their owners, the two stories met.",
+  "eras": [
+    {
+      "id": "rules",
+      "name": "The rules of light",
+      "from": 1600,
+      "to": 1880,
+      "color": "#c49bff",
+      "summary": "Long before electric lamps, Kepler and Lambert work out how light fades with distance and how to measure it."
+    },
+    {
+      "id": "tubes",
+      "name": "Flash, tubes and a ring",
+      "from": 1880,
+      "to": 1961,
+      "color": "#ffb547",
+      "summary": "Photographers get flash powder, flash tubes and fluorescent lamps. A tube is bent into a circle, and a flash is wrapped round a lens."
+    },
+    {
+      "id": "led",
+      "name": "The LED grows up",
+      "from": 1962,
+      "to": 2005,
+      "color": "#8ec5ff",
+      "summary": "Red LEDs, then blue, then white. Cameras shrink onto chips and turn to face their owners."
+    },
+    {
+      "id": "creator",
+      "name": "A ring for everyone",
+      "from": 2006,
+      "to": 2026,
+      "color": "#5ce1a9",
+      "summary": "White LEDs become cheap and safe enough for every desk. Standards catch up on eyes, flicker and plugs, and a pandemic puts everyone on camera."
+    }
+  ],
+  "events": [
+    {
+      "year": 1604,
+      "date": "1604",
+      "era": "rules",
+      "art": "telescope",
+      "key": true,
+      "title": "Light thins out with the square of the distance",
+      "who": "Johannes Kepler",
+      "where": "Prague",
+      "country": "Bohemia (now Czechia)",
+      "text": "In his book on optics, Ad Vitellionem Paralipomena, Kepler argued that light spreading from a point is shared over a sphere that grows with the square of the distance. So the light on any patch falls as the inverse square. A 14th-century Oxford scholar, John Dumbleton, had studied the fading of light but had not found the rule.",
+      "why": "It is the rule that makes a face bright and the wall behind it dark.",
+      "box": "bright",
+      "sources": [
+        2
+      ]
+    },
+    {
+      "year": 1760,
+      "date": "1760",
+      "era": "rules",
+      "art": "candles",
+      "title": "Lambert writes the book of light measurement",
+      "who": "Johann Heinrich Lambert",
+      "where": "Augsburg",
+      "country": "Germany",
+      "text": "Lambert's Photometria set out how to measure light. It gave the inverse square law, the cosine law for light striking a surface at a slant, and the idea of a surface that looks equally bright from every side.",
+      "why": "A ring light's milky diffuser is close to Lambert's ideal surface, and the box's brightness sums use his laws.",
+      "box": "bright",
+      "sources": [
+        3
+      ]
+    },
+    {
+      "year": 1887,
+      "date": "1887",
+      "era": "tubes",
+      "art": "flash",
+      "title": "Flash powder: a bright light on demand",
+      "who": "Adolf Miethe and Johannes Gaedicke",
+      "where": "Berlin",
+      "country": "Germany",
+      "text": "Two German chemists mixed magnesium powder with an oxidiser to make flash powder. It gave photographers a burst of light as bright as day, with smoke, noise and some danger.",
+      "why": "Photographers could now bring their own light, and began to ask where to put it.",
+      "sources": [
+        4
+      ]
+    },
+    {
+      "year": 1907,
+      "date": "February 1907",
+      "era": "tubes",
+      "art": "chip",
+      "title": "A crystal that glows",
+      "who": "Henry Joseph Round",
+      "where": "Marconi Company",
+      "country": "United Kingdom",
+      "text": "Round touched a wire to a crystal of carborundum (silicon carbide), passed a current and saw a faint glow. He published a short note in 1907. It was the first report of light from a solid-state diode.",
+      "why": "Every LED in a ring light descends from this glow.",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1927,
+      "date": "1927",
+      "era": "tubes",
+      "art": "chip",
+      "title": "Losev builds and studies the first LEDs",
+      "who": "Oleg Losev",
+      "where": "Nizhny Novgorod and Leningrad",
+      "country": "Soviet Union",
+      "text": "The young Russian radio technician Oleg Losev made silicon carbide diodes that gave out light and published careful studies of them. Almost nobody followed up. He died in the siege of Leningrad in 1942.",
+      "why": "He understood that this was cold light from a crystal, decades before industry cared.",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1931,
+      "date": "1931",
+      "era": "tubes",
+      "art": "flash",
+      "title": "The electronic flash tube",
+      "who": "Harold Edgerton",
+      "where": "Massachusetts Institute of Technology",
+      "country": "United States",
+      "text": "Edgerton introduced the electronic flash tube: a glass tube of gas that gives a very short, very bright flash when a capacitor is discharged through it. It could be used again and again.",
+      "why": "A glass tube can be bent, and a bent tube can go round a lens.",
+      "sources": [
+        4
+      ]
+    },
+    {
+      "year": 1938,
+      "date": "1938",
+      "era": "tubes",
+      "art": "studio",
+      "title": "Fluorescent tubes go on sale",
+      "who": "General Electric (team led by George Inman)",
+      "where": "Nela Park, Ohio",
+      "country": "United States",
+      "text": "After a prototype built in 1934, fluorescent 'lumiline' lamps went on sale in 1938 in four sizes. They ran cooler than filament bulbs and gave soft, even light from a long tube.",
+      "why": "A long glowing tube is already a soft source. The next step was to bend it.",
+      "sources": [
+        5
+      ]
+    },
+    {
+      "year": 1945,
+      "date": "1945",
+      "era": "tubes",
+      "art": "spotlight",
+      "title": "A lamp bent into a circle",
+      "who": "General Electric",
+      "where": "United States",
+      "country": "United States",
+      "text": "GE introduced the Circline, a fluorescent tube bent into a ring, first as a 12 inch, 32 watt lamp. Other makers followed in the 1950s. Decades later, before LEDs took over, continuous ring lights for make-up and video used circular fluorescent tubes like these because they stayed cool.",
+      "why": "It was the first common lamp shaped like a ring light.",
+      "box": "anatomy",
+      "sources": [
+        6,
+        0
+      ]
+    },
+    {
+      "year": 1952,
+      "date": "1952",
+      "era": "tubes",
+      "art": "flash",
+      "key": true,
+      "title": "The ring flash, made for dentists",
+      "who": "Lester A. Dine",
+      "where": "New York",
+      "country": "United States",
+      "text": "A dentist wanted to photograph the inside of a mouth, where a flash beside the camera only lit the lips. Dine built a flash that wraps round the lens, so the light travels the same way the camera looks. The date and the story come from Dine's own company, which still sells dental cameras.",
+      "why": "Light from all round the lens reaches into places where an off-axis lamp casts its own shadow.",
+      "box": "use",
+      "sources": [
+        0,
+        7
+      ]
+    },
+    {
+      "year": 1962,
+      "date": "9 October 1962",
+      "era": "led",
+      "art": "chip",
+      "key": true,
+      "title": "The first practical visible LED",
+      "who": "Nick Holonyak Jr.",
+      "where": "General Electric, Syracuse, New York",
+      "country": "United States",
+      "text": "Holonyak grew crystals of gallium arsenide phosphide and made a diode that gave out red light you could see. Early in 1963 he predicted that LEDs would one day replace the light bulb.",
+      "why": "The LED left the laboratory, though for thirty years it could only be an indicator lamp.",
+      "sources": [
+        8,
+        1
+      ]
+    },
+    {
+      "year": 1962,
+      "date": "December 1962",
+      "era": "led",
+      "art": "lens",
+      "title": "A medical lens with the light built in",
+      "who": "Nippon Kogaku (Nikon)",
+      "where": "Tokyo",
+      "country": "Japan",
+      "text": "Nikon released the Medical-Nikkor 200 mm f/5.6 for recording surgery and the inside of the mouth. Collectors' accounts describe a ring flash built round the front of the lens, with exposure worked out for the user. Company name given as dated history.",
+      "why": "The ring of light became a standard tool of medical and dental photography.",
+      "box": "use",
+      "sources": [
+        9,
+        10,
+        0
+      ]
+    },
+    {
+      "year": 1965,
+      "date": "1965",
+      "era": "led",
+      "art": "colorwheel",
+      "title": "A score for how true colours look",
+      "who": "International Commission on Illumination (CIE)",
+      "where": "Vienna",
+      "country": "Austria",
+      "text": "The CIE published a method to rate how faithfully a lamp shows colours, compared with daylight or a glowing body. The usual form, Ra, dates from a 1974 revision republished in 1995. It averages eight pastel samples. A strong red, R9, is scored separately.",
+      "why": "Decades later it showed that many white LEDs are short of red, which matters on skin.",
+      "box": "colour",
+      "sources": [
+        11
+      ]
+    },
+    {
+      "year": 1989,
+      "date": "1985 to 1989",
+      "era": "led",
+      "art": "chip",
+      "title": "Gallium nitride is tamed",
+      "who": "Isamu Akasaki and Hiroshi Amano",
+      "where": "Nagoya University",
+      "country": "Japan",
+      "text": "Blue light needs gallium nitride, a crystal most laboratories had given up on. Akasaki's group grew good crystals on sapphire with a thin buffer layer in the mid 1980s. In 1989 they made p-type gallium nitride and the first p-n junction blue LED from it.",
+      "why": "Without blue there is no white LED.",
+      "sources": [
+        12,
+        14
+      ]
+    },
+    {
+      "year": 1993,
+      "date": "November 1993",
+      "era": "led",
+      "art": "chip",
+      "key": true,
+      "title": "A blue LED bright enough to use",
+      "who": "Shuji Nakamura",
+      "where": "Nichia, Tokushima",
+      "country": "Japan",
+      "text": "Working at a small chemicals company, Nakamura demonstrated a high-brightness blue LED, and Nichia began making it the same year. Red, green and blue LEDs could now be combined, and blue could be turned into white.",
+      "why": "It was the missing colour, and it started the LED lighting industry.",
+      "box": "colour",
+      "sources": [
+        13,
+        17,
+        14
+      ]
+    },
+    {
+      "year": 1993,
+      "date": "1992 to 1993",
+      "era": "led",
+      "art": "pixels",
+      "title": "A camera on a chip",
+      "who": "Mitsubishi Electric; NASA Jet Propulsion Laboratory",
+      "where": "Japan and California",
+      "country": "United States",
+      "text": "The CMOS active-pixel sensor put an amplifier in every pixel of an ordinary silicon chip. It was cheap and used little power. Most such sensors read the picture row by row, a rolling shutter.",
+      "why": "Row-by-row reading is why a blinking LED shows up as bands in phone video.",
+      "box": "flicker",
+      "sources": [
+        15,
+        16
+      ]
+    },
+    {
+      "year": 1996,
+      "date": "September 1996",
+      "era": "led",
+      "art": "spotlight",
+      "key": true,
+      "title": "Blue plus phosphor makes white",
+      "who": "Nichia",
+      "where": "Tokushima",
+      "country": "Japan",
+      "text": "Nichia covered a blue LED with a yellow phosphor (cerium-doped YAG). Part of the blue passes through and part is turned to yellow, and the mix looks white. The first white LEDs gave only about 5 lumens per watt and lit small screens.",
+      "why": "This is the recipe inside nearly every LED in a ring light today.",
+      "box": "colour",
+      "sources": [
+        17,
+        18,
+        1
+      ]
+    },
+    {
+      "year": 1999,
+      "date": "May 1999",
+      "era": "led",
+      "art": "phone",
+      "title": "A phone with a camera facing you",
+      "who": "Kyocera",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "The Kyocera Visual Phone VP-210 was sold as a mobile videophone, with a camera on the same side as the screen. Front cameras reached other markets from 2003. Company name given as dated history.",
+      "why": "Once the camera faced its owner, the owner's face needed light.",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 2002,
+      "date": "13 September 2002",
+      "era": "led",
+      "art": "word",
+      "title": "The word 'selfie'",
+      "who": "Nathan Hope (forum post)",
+      "where": "Australia",
+      "country": "Australia",
+      "text": "The earliest known use of the word 'selfie' is in a post on an Australian internet forum. In November 2013 Oxford Dictionaries named it word of the year.",
+      "why": "A new habit had a name, and soon a lamp to go with it.",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 2006,
+      "date": "2006",
+      "era": "creator",
+      "art": "eye",
+      "title": "A safety standard for lamps and the eye",
+      "who": "IEC and CIE",
+      "where": "Geneva and Vienna",
+      "country": "Switzerland",
+      "text": "IEC 62471, also published as CIE S 009, set out how to test lamps for photobiological safety, including the blue-light hazard to the retina. Lamps are sorted into risk groups from 'exempt' upward.",
+      "why": "It is the yardstick behind official statements on LED lamps and eyes.",
+      "box": "use",
+      "sources": [
+        20
+      ]
+    },
+    {
+      "year": 2007,
+      "date": "2007",
+      "era": "creator",
+      "art": "digital",
+      "title": "Rolling-shutter sensors take over",
+      "who": "Image sensor industry",
+      "where": "Worldwide",
+      "country": "Worldwide",
+      "text": "By 2007 sales of CMOS sensors had passed those of the older CCD type, and CMOS went on to fill almost every phone and video camera.",
+      "why": "Nearly every camera pointed at a ring light now reads its picture row by row.",
+      "box": "flicker",
+      "sources": [
+        15
+      ]
+    },
+    {
+      "year": 2010,
+      "date": "2010",
+      "era": "creator",
+      "art": "selfie",
+      "title": "Front cameras go everywhere",
+      "who": "Phone makers",
+      "where": "Worldwide",
+      "country": "United States",
+      "text": "The iPhone 4 of 2010 had a front camera, and it helped make selfies popular around the world. Video sites and photo apps filled with faces filmed at arm's length. Company name given as dated history.",
+      "why": "Millions of people became their own camera crew, without a lighting crew.",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 2012,
+      "date": "3 October 2012",
+      "era": "creator",
+      "art": "plug",
+      "title": "India makes safety registration compulsory",
+      "who": "Government of India and the Bureau of Indian Standards",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "An order of October 2012 began India's compulsory registration scheme for electronics. The list now includes LED lamps (IS 16102), fixed LED luminaires (IS 10322), LED drivers (IS 15885) and power adapters (IS 13252 and IS 616). A 2021 order replaced the original.",
+      "why": "A ring light's weakest point is often its plug-in adapter, and this is the rule that covers it.",
+      "box": "use",
+      "sources": [
+        21
+      ]
+    },
+    {
+      "year": 2014,
+      "date": "7 October 2014",
+      "era": "creator",
+      "art": "trophy",
+      "key": true,
+      "title": "A Nobel Prize for the blue LED",
+      "who": "Isamu Akasaki, Hiroshi Amano and Shuji Nakamura",
+      "where": "Stockholm",
+      "country": "Sweden",
+      "text": "The Nobel Prize in Physics went to the three for 'the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources'. The same year a laboratory white LED passed 300 lumens per watt.",
+      "why": "The prize marked the moment LEDs became the world's ordinary light.",
+      "sources": [
+        14,
+        12,
+        13,
+        23
+      ]
+    },
+    {
+      "year": 2015,
+      "date": "5 January 2015",
+      "era": "creator",
+      "art": "bolt",
+      "key": true,
+      "title": "India buys LED bulbs by the crore",
+      "who": "Government of India (UJALA)",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "India's national LED programme, later called UJALA, bought LED bulbs in huge numbers and sold them cheaply. The government says the price it paid fell from about Rs 310 to Rs 38 a bulb in a few years, and more than 36 crore bulbs were distributed.",
+      "why": "Mass buying helped make white LEDs cheap enough to put a hundred of them in a small ring.",
+      "sources": [
+        25
+      ]
+    },
+    {
+      "year": 2015,
+      "date": "2015",
+      "era": "creator",
+      "art": "sinewave",
+      "key": true,
+      "title": "Engineers set limits on flicker",
+      "who": "IEEE",
+      "where": "New York",
+      "country": "United States",
+      "text": "IEEE Standard 1789 advised how deeply and how fast LED light may be modulated. In summaries of the standard, full on-off flicker is low risk only above about 1,250 hertz, and has no observable effect above about 3,000 hertz.",
+      "why": "It gave makers of dimmers a number to aim for, which also keeps bands out of video.",
+      "box": "flicker",
+      "sources": [
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "year": 2018,
+      "date": "June 2018",
+      "era": "creator",
+      "art": "eye",
+      "title": "Europe reviews LEDs and health",
+      "who": "SCHEER, a scientific committee of the European Commission",
+      "where": "Luxembourg",
+      "country": "Luxembourg",
+      "text": "The committee found no evidence of direct adverse health effects from LEDs in normal use by the general healthy population. It noted that flicker and glare can be a problem, that light may affect the sleep cycle, and that long-term use should be watched.",
+      "why": "It is the fullest official review of LED lighting and health so far.",
+      "box": "use",
+      "sources": [
+        29,
+        34
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "23 April 2019",
+      "era": "creator",
+      "art": "eye",
+      "title": "The CIE speaks on 'blue light hazard'",
+      "who": "International Commission on Illumination (CIE)",
+      "where": "Vienna",
+      "country": "Austria",
+      "text": "The CIE said the term should be kept for one thing: photochemical damage to the retina from staring at very bright sources. It reported that white lamps used for general lighting do not exceed the limits in foreseeable use, and that the exposure is often less than from looking at a blue sky.",
+      "why": "It separated a real, narrow hazard from a loose worry.",
+      "box": "use",
+      "sources": [
+        20
+      ]
+    },
+    {
+      "year": 2020,
+      "date": "March and April 2020",
+      "era": "creator",
+      "art": "computer",
+      "key": true,
+      "title": "The world moves onto video calls",
+      "who": "Schools, offices and families",
+      "where": "Worldwide",
+      "country": "Worldwide",
+      "text": "When the pandemic closed offices and schools, daily Zoom meeting participants rose from about 10 million in December 2019 to more than 300 million in April 2020. In India about 1.5 million schools closed, affecting 247 million children, and many classes moved online. Ring lights, once a studio tool, became a household object.",
+      "why": "Suddenly everyone was on camera, usually in a badly lit room.",
+      "box": "shadow",
+      "sources": [
+        30,
+        31,
+        0
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Inverse square law for light",
+      "value": "1604",
+      "who": "Johannes Kepler, Prague"
+    },
+    {
+      "label": "Light from a solid-state diode",
+      "value": "1907",
+      "who": "Henry Joseph Round, United Kingdom"
+    },
+    {
+      "label": "Circular fluorescent lamp",
+      "value": "1945",
+      "who": "General Electric, United States"
+    },
+    {
+      "label": "Ring flash",
+      "value": "1952",
+      "who": "Lester A. Dine, United States (company account)"
+    },
+    {
+      "label": "Practical visible LED",
+      "value": "1962",
+      "who": "Nick Holonyak Jr., United States"
+    },
+    {
+      "label": "High-brightness blue LED",
+      "value": "1993",
+      "who": "Shuji Nakamura, Japan"
+    },
+    {
+      "label": "White LED on sale",
+      "value": "1996",
+      "who": "Nichia, Japan"
+    },
+    {
+      "label": "Phone with a front camera",
+      "value": "1999",
+      "who": "Kyocera VP-210, Japan"
+    }
+  ],
+  "people": [
+    {
+      "name": "Johannes Kepler",
+      "life": "1571 – 1630",
+      "role": "Astronomer",
+      "from": "Germany",
+      "note": "Showed that light from a point fades with the square of the distance."
+    },
+    {
+      "name": "Johann Heinrich Lambert",
+      "life": "1728 – 1777",
+      "role": "Mathematician and physicist",
+      "from": "Mulhouse (now in France)",
+      "note": "Founded the science of measuring light with his 1760 book Photometria."
+    },
+    {
+      "name": "Henry Joseph Round",
+      "life": "1881 – 1966",
+      "role": "Radio engineer",
+      "from": "England",
+      "note": "First reported light from a crystal diode, in 1907."
+    },
+    {
+      "name": "Oleg Losev",
+      "life": "1903 – 1942",
+      "role": "Radio technician and physicist",
+      "from": "Russia",
+      "note": "Built and studied light-emitting diodes in the 1920s, and was long forgotten."
+    },
+    {
+      "name": "Harold Edgerton",
+      "life": "1903 – 1990",
+      "role": "Electrical engineer",
+      "from": "USA",
+      "note": "Introduced the electronic flash tube and froze bullets and splashes in photographs."
+    },
+    {
+      "name": "Lester A. Dine",
+      "life": "20th century",
+      "role": "Camera dealer and inventor",
+      "from": "USA",
+      "note": "Credited with the ring flash, made in 1952 for dental photography."
+    },
+    {
+      "name": "Nick Holonyak Jr.",
+      "life": "1928 – 2022",
+      "role": "Engineer",
+      "from": "USA",
+      "note": "Made the first practical visible LED and predicted it would replace the bulb."
+    },
+    {
+      "name": "Isamu Akasaki",
+      "life": "1929 – 2021",
+      "role": "Physicist",
+      "from": "Japan",
+      "note": "Spent decades making gallium nitride good enough for blue LEDs."
+    },
+    {
+      "name": "Hiroshi Amano",
+      "life": "born 1960",
+      "role": "Physicist",
+      "from": "Japan",
+      "note": "As Akasaki's student, made the key crystals and the first p-n junction blue LED."
+    },
+    {
+      "name": "Shuji Nakamura",
+      "life": "born 1954",
+      "role": "Engineer",
+      "from": "Japan",
+      "note": "Built the first high-brightness blue LED at Nichia in 1993."
+    }
+  ],
+  "series": [
+    {
+      "id": "efficacy",
+      "title": "Record white LEDs in the laboratory",
+      "unit": "lumens per watt",
+      "log": false,
+      "after": "led",
+      "caption": "The best white LEDs reported by makers' laboratories. Test currents differ, so treat the line as a trend. Lamps you can buy give roughly half the newest figure.",
+      "points": [
+        {
+          "year": 1996,
+          "value": 5,
+          "label": "Nichia's first white LED: about 5 lm/W"
+        },
+        {
+          "year": 2005,
+          "value": 70,
+          "label": "Cree: 70 lm/W"
+        },
+        {
+          "year": 2006,
+          "value": 131,
+          "label": "Cree: 131 lm/W at 20 mA"
+        },
+        {
+          "year": 2010,
+          "value": 208,
+          "label": "Cree: 208 lm/W"
+        },
+        {
+          "year": 2011,
+          "value": 231,
+          "label": "Cree: 231 lm/W at 350 mA"
+        },
+        {
+          "year": 2013,
+          "value": 276,
+          "label": "Cree: 276 lm/W"
+        },
+        {
+          "year": 2014,
+          "value": 303,
+          "label": "Cree: 303 lm/W at 350 mA"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "The ring flash was invented for teeth, not faces: a dentist could not get light inside a patient's mouth.",
+    "The bright circle in a model's eye is the ring itself, shrunk about 130 times by the curved, wet surface of the cornea.",
+    "An old filament bulb scores a perfect 100 for colour rendering. Many cheap white LEDs score about 80 and do badly on strong red.",
+    "The first white LEDs of 1996 gave about 5 lumens per watt. Twenty years later ordinary ones gave more than 100.",
+    "Sunlight is hard light even though the sun is huge: it is so far away that it looks only half a degree wide. A 26 cm ring at 50 cm looks about 29 degrees wide."
+  ],
+  "sources": [
+    {
+      "title": "Ring flash",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ring_flash"
+    },
+    {
+      "title": "Light-emitting diode",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Light-emitting_diode"
+    },
+    {
+      "title": "Inverse-square law",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Inverse-square_law"
+    },
+    {
+      "title": "Photometria",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Photometria"
+    },
+    {
+      "title": "Flash (photography)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Flash_(photography)"
+    },
+    {
+      "title": "Fluorescent lamp",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fluorescent_lamp"
+    },
+    {
+      "title": "GE Fluorescent Circline FC16T10-CW",
+      "publisher": "Lamptech: Museum of Electric Lamp Technology",
+      "url": "https://lamptech.co.uk/Spec%20Sheets/D%20FLO%20GE%20FC16T10CW.htm"
+    },
+    {
+      "title": "New Mini Macro Flash for Dental Photography (Lester A. Dine Inc. company history)",
+      "publisher": "Dentaltown",
+      "url": "https://www.dentaltown.com/news/details/2930/new-mini-macro-flash-for-dental-photography"
+    },
+    {
+      "title": "Nick Holonyak",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nick_Holonyak"
+    },
+    {
+      "title": "NIKKOR: The Thousand and One Nights No. 69, Medical-Nikkor",
+      "publisher": "Nikon",
+      "url": "https://imaging.nikon.com/history/story/0069/index.htm"
+    },
+    {
+      "title": "Nikon 200/5.6 Medical Nikkor",
+      "publisher": "CameraQuest",
+      "url": "https://cameraquest.com/nf200med.htm"
+    },
+    {
+      "title": "Color rendering index",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Color_rendering_index"
+    },
+    {
+      "title": "Isamu Akasaki",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Isamu_Akasaki"
+    },
+    {
+      "title": "Shuji Nakamura",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shuji_Nakamura"
+    },
+    {
+      "title": "The Nobel Prize in Physics 2014: press release",
+      "publisher": "NobelPrize.org",
+      "url": "https://www.nobelprize.org/prizes/physics/2014/press-release/"
+    },
+    {
+      "title": "Active-pixel sensor",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Active-pixel_sensor"
+    },
+    {
+      "title": "Rolling shutter",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rolling_shutter"
+    },
+    {
+      "title": "Blue LED + Phosphor = the Creation of the White LED",
+      "publisher": "LEDinside",
+      "url": "https://www.ledinside.com/news/2024/9/2024_09_19_01"
+    },
+    {
+      "title": "White LED (exhibit note)",
+      "publisher": "Semiconductor History Museum of Japan",
+      "url": "https://shmj.or.jp/english/pdf/dis/exhibi315E.pdf"
+    },
+    {
+      "title": "Selfie",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Selfie"
+    },
+    {
+      "title": "Position Statement on the Blue Light Hazard (23 April 2019)",
+      "publisher": "International Commission on Illumination (CIE)",
+      "url": "https://www.cie.co.at/publications/position-statement-blue-light-hazard-april-23-2019"
+    },
+    {
+      "title": "Scheme II: Registration Scheme (products under compulsory registration)",
+      "publisher": "Bureau of Indian Standards",
+      "url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-ii-registration-scheme"
+    },
+    {
+      "title": "Cree demonstrates 131 lm/W white LED",
+      "publisher": "Semiconductor Today",
+      "url": "https://semiconductor-today.com/news_items/June06/CREE_200606.htm"
+    },
+    {
+      "title": "Cree breaks 300 lumens-per-watt barrier",
+      "publisher": "LED professional",
+      "url": "https://led-professional.com/technology/light-generation/continues-to-push-the-boundaries-of-led-performance-by-breaking-300-lumens-per-watt-barrier"
+    },
+    {
+      "title": "Cree Broke LED Efficacy Records with 231 Lumen Per Watt",
+      "publisher": "LEDinside",
+      "url": "https://www.ledinside.com/node/view/13319"
+    },
+    {
+      "title": "UJALA factsheet",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://pib.gov.in/FactsheetDetails.aspx?Id=148593"
+    },
+    {
+      "title": "How New Flicker Recommendations Will Influence LED Lighting Design",
+      "publisher": "Digi-Key",
+      "url": "https://www.digikey.com/en/articles/how-new-flicker-recommendations-will-influence-led-lighting-design"
+    },
+    {
+      "title": "IEEE 1789-2015: Recommended Practices for Modulating Current in High-Brightness LEDs for Mitigating Health Risks to Viewers",
+      "publisher": "IEEE Standards Association",
+      "url": "https://standards.ieee.org/ieee/1789/4479/"
+    },
+    {
+      "title": "Flicker: Understanding the New IEEE Recommended Practice",
+      "publisher": "US Department of Energy",
+      "url": "https://www.energy.gov/eere/ssl/articles/flicker-understanding-new-ieee-recommended-practice"
+    },
+    {
+      "title": "Are LED lights safe for human health? Conclusions (summary of the SCHEER Opinion, 2018)",
+      "publisher": "European Commission",
+      "url": "https://health.ec.europa.eu/scientific-committees/easy-read-summaries-scientific-opinions/are-led-lights-safe-human-health-3_en"
+    },
+    {
+      "title": "Zoom walks back claims it has 300 million daily active users",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2020/04/30/zoom-walks-back-claims-it-has-300-million-daily-active-users.html"
+    },
+    {
+      "title": "247 million schoolchildren in India impacted by Covid-induced school closures: UNICEF",
+      "publisher": "The Tribune",
+      "url": "https://www.tribuneindia.com/news/nation/247-million-schoolchildren-in-india-impacted-by-covid-induced-school-closures-unicef-219998"
+    },
+    {
+      "title": "Lux",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lux"
+    },
+    {
+      "title": "Cree Breaks 200 Lumen Per Watt Efficacy Barrier",
+      "publisher": "Electronic Specifier",
+      "url": "https://www.electronicspecifier.com/?p=111270"
+    },
+    {
+      "title": "Potential risks to human health of Light Emitting Diodes (LEDs): SCHEER Opinion",
+      "publisher": "European Commission",
+      "url": "https://health.ec.europa.eu/publications/potential-risks-human-health-light-emitting-diodes-leds_en"
+    }
+  ]
+}

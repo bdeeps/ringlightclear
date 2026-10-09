@@ -1,0 +1,132 @@
+{
+  "slug": "ringlightclear",
+  "box": 160,
+  "date": "2026-10-09",
+  "title": "RingLightClear",
+  "question": "How does a ring light work?",
+  "hook": "Why does a circle of tiny LEDs make a face look so smooth? Trace the shadows a ring fills in, find its reflection in an eye, mix warm and cool light, and watch a cheap dimmer paint dark bands across a phone video.",
+  "thumbText": "HOW A RING LIGHT WORKS",
+  "field": "machines",
+  "minutes": 14,
+  "tags": [
+    "ring light",
+    "LED",
+    "selfie light",
+    "soft light",
+    "hard light",
+    "shadow",
+    "penumbra",
+    "umbra",
+    "catchlight",
+    "cornea",
+    "lux",
+    "lumens",
+    "inverse square law",
+    "colour temperature",
+    "white balance",
+    "CRI",
+    "R9",
+    "phosphor",
+    "PWM",
+    "flicker",
+    "rolling shutter",
+    "banding",
+    "IEEE 1789",
+    "IEC 62471",
+    "blue light",
+    "BIS",
+    "ring flash",
+    "dental photography",
+    "machine vision",
+    "softbox",
+    "beauty dish",
+    "video call",
+    "online class",
+    "make-up",
+    "creator",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A circle of LEDs",
+      "text": "A ring light is a flat ring-shaped board of a hundred or more tiny white LEDs, half warm and half cool, behind a milky diffuser, with the camera looking through the hole. A 26 cm USB ring draws at most 5 V × 2 A = 10 W and gives roughly 540 lumens."
+    },
+    {
+      "title": "Why a ring fills shadows",
+      "text": "A small lamp to one side leaves a hard nose shadow. A ring sends light from every side of the lens, so skin hidden from one part of the ring is still lit by the rest. What matters is how big the source looks from the face: a 26 cm ring at 50 cm spans about 29°. The only shadow left is a thin halo on a wall close behind."
+    },
+    {
+      "title": "The circle in the eye, and lux",
+      "text": "The cornea is a convex mirror with a focal length near 3.9 mm, so a 26 cm ring at 50 cm shows up as a circle about 2 mm wide. That ring puts roughly 600 lux on the face, like a well lit office. Twice as far gives about a quarter of the light, which is why the wall behind goes dark."
+    },
+    {
+      "title": "Warm, cool and true",
+      "text": "Each white LED is a blue chip under yellow phosphor. Mixing the 3,000 K and 6,000 K sets gives any white in between, and the camera's white balance decides whether it looks neutral. Ordinary LEDs are short of deep red, so skin can look grey. High-CRI LEDs (95 and up, with a high R9) fill the reds back in."
+    },
+    {
+      "title": "Dimming and dark bands",
+      "text": "Cheap dimmers blink the LEDs fully on and off (PWM). A phone's rolling shutter reads its sensor row by row, so short exposures catch the blinks as dark bands. A slower shutter, PWM at thousands of hertz, or steady-current dimming cures it. IEEE 1789 treats full on-off flicker as low risk only above about 1,250 Hz."
+    },
+    {
+      "title": "Use it well",
+      "text": "Raise the ring a little and the glare slides off spectacle lenses. Do not stare into any bright lamp at close range, though official reviews (CIE 2019, SCHEER 2018) find no evidence of eye harm from white LEDs in normal use. In India, LED lights and adapters need BIS registration. The same on-axis trick lights teeth, microscopes and factory parts."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Diffuser",
+      "def": "A milky cover that scatters the light of many small LEDs into one even glow."
+    },
+    {
+      "term": "Penumbra",
+      "def": "The part-shadow at a shadow's edge, where some of the lamp is hidden and some still shines."
+    },
+    {
+      "term": "Angular size",
+      "def": "How big a light source looks from the subject, as an angle. Bigger means softer shadows."
+    },
+    {
+      "term": "Catchlight",
+      "def": "The reflection of a lamp in the eye. The cornea is a convex mirror, so a ring appears as a small circle."
+    },
+    {
+      "term": "Lux",
+      "def": "Light landing on a surface: one lumen spread over one square metre."
+    },
+    {
+      "term": "Colour temperature",
+      "def": "The colour of a white light in kelvin: about 3,000 K is warm, about 6,000 K is cool."
+    },
+    {
+      "term": "CRI and R9",
+      "def": "Scores out of 100 for how truly a lamp shows colours. R9 tests a strong red, which matters for skin."
+    },
+    {
+      "term": "PWM",
+      "def": "Pulse-width modulation: dimming by switching LEDs fully on and off very fast."
+    },
+    {
+      "term": "Rolling shutter",
+      "def": "A camera sensor that records a frame row by row, so a blinking lamp can show as dark bands."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "ringlightclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
